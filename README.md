@@ -1,7 +1,8 @@
 # DJS07 - Build a Meme Generator
 
-In this challenge you are required to code-along the Scrimba lesson: https://scrimba.com/playlist/prXJpCQ
+Instrucitons:
+To run the app:
+Type: `npm run dev`
+into your terminal to start a local host/development.
 
-This starter repo only has CSS styling added to the empty React project.
-
-After cloning run `npm install` to install dependencies.
+To view in live view, click the link to the local host server.
